@@ -1,6 +1,7 @@
-# 💫 About Me:
-Mern stack
+# 💫 About Me: 
 
+I'm currently learning MERN Stack.
+You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhya-kushwaha-a6b608157) 
