@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sand000.github.io/](https://sand000.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJs,NodeJs,Express,and MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, and MongoDB**
 
 - 📫 How to reach me **kushwahasandhya68@gmail.com**
 
