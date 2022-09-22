@@ -3,7 +3,7 @@
 <h4>I'm currently learning MERN Stack.</h4>
 <h4>You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB.</h4>
 
-<img style="height:230px; width:180px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img>
+<img style="height:250px; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhya-kushwaha-a6b608157) 
