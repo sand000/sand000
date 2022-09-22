@@ -1,6 +1,6 @@
 # 💫 Hii, I am a MERN Stack Developer.  
 
-I'm currently learning MERN Stack.
+<h1>I'm currently learning MERN Stack.</h1>
 
 You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB.
 
