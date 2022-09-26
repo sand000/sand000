@@ -2,7 +2,7 @@
 
 <h4>My name is Sandhya Kushwaha. I am a web developer and  I'm currently learning MERN Stack. My key learning lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS.</h4><h4>You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB.</h4>
 
-<div style="display=block; width=100%"><img style="height:250px;  margin=auto; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img></div>
+<div style="display:block; width:100%"><img style="height:250px;  margin:auto; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img></div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandhya-kushwaha-a6b608157) 
