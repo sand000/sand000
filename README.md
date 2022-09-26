@@ -4,7 +4,7 @@
 <h3>You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB. </h3>
 
 
-<div style="display:block; border:1px solid white; width:100%"><img style="height:250px;  margin:auto; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img></div>
+<div style="display:block; margin:auto; border:1px solid white; width:100%"><img style="height:250px;  margin:auto; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img></div>
 
 
 ## 🌐 Socials:
