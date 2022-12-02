@@ -1,4 +1,4 @@
-#Full Stack Web Developer.  
+<h2>Full Stack Web Developer</h2>  
 
 <h4>My name is Sandhya Kushwaha. I am a Web developer and  I'm currently learning MERN Stack. My key learning lies within web apps. Ability to learn new softwares and technologies quickly. Proficient enough to work in teams by providing valuable support.</h4>
 
