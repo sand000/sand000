@@ -1,10 +1,11 @@
 # 💫 Hello, I am a MERN Stack Developer.  
 
-<h3>My name is Sandhya Kushwaha. I am a web developer and  I'm currently learning MERN Stack. My key learning lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and of course HTML/CSS. Ability to learn new softwares and technologies quickly. Capability to work in teams by providing valuable support.</h3>
+<h4>My name is Sandhya Kushwaha. I am a Web developer and  I'm currently learning MERN Stack. My key learning lies within web apps, and the main languages in my tech stack in Front-end are  HTML, CSS, JavaScript, React, Redux and in Backend NodeJs, Express, MongoDB. Ability to learn new softwares and technologies quickly. Capability to work in teams by providing valuable support.</h4>
+
 <h3>You can ask me HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, and MongoDB. </h3>
 
 
-<div style="display:block; margin:auto; border:1px solid white; width:100%"><img style="height:250px;  margin:auto; width:250px" src="https://media0.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"></img></div>
+<div style="display:block; margin:auto; border:1px solid white; width:50%"><img style="height:250px;  margin:auto; width:250px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fvector-female-programmer-software-engineer-coding-desktop-isometric-image193608287&psig=AOvVaw0eP_Z4fUwPylO8t0XwRuGk&ust=1670080661014000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD-u66d2_sCFQAAAAAdAAAAABAJ"></img></div>
 
 
 ## 🌐 Socials:
