@@ -1,8 +1,8 @@
 <h2>Full Stack Web Developer</h2>
-<h4>Hardworking Full Stack MERN Developer who is proficient in
+<h4>Full Stack MERN Developer who is proficient in
 writing production-ready code using Reactjs, Redux, and CSS
-on the front end and NodeJS, Express, and MongoDB on the
-backend to build single-page applications with Data Structures
+on the Front-end and NodeJS, Express, and MongoDB on the
+Backend to build single-page applications with Data Structures
 & Algorithms knowledge. Highly interested in working as a
 front-end developer.</h4>
 
