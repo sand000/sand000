@@ -1,10 +1,7 @@
-<h2>Full Stack Web Developer</h2>
-<h4>Full Stack MERN Developer who is proficient in
-writing production-ready code using Reactjs, Redux, and CSS
-on the Front-end and NodeJS, Express, and MongoDB on the
-Backend to build single-page applications with Data Structures
-& Algorithms knowledge. Highly interested in working as a
-front-end developer.</h4>
+<h2>Executive Software Developer</h2>
+<h4>Skilled Flutter Developer with 1.3+ years of experience in building Android and ios apps. Possess a deep
+knowledge of Flutter and React, along with backend technologies including Java, Node.js, MySQL, AWS and
+GCP. Passionate about creating user-friendly and efficient mobile applications.</h4>
 
 
 ## 🌐 Socials:
